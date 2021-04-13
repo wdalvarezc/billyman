@@ -10,3 +10,7 @@
 #carousel{
     align-items: center;
 }
+.carousel-item>img{
+    width: 600px;
+    height: 350px;
+}
